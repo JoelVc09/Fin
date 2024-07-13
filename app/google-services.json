@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229088397916",
+    "project_id": "finexam-d0503",
+    "storage_bucket": "finexam-d0503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229088397916:android:7665f8500feab3ea3cf499",
+        "android_client_info": {
+          "package_name": "com.example.pracfin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyRQ2uz0kydIoIi-ICQOw35w6WyBq4nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
